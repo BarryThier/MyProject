@@ -1,0 +1,2 @@
+# Information sur mon projet
+Ceci est mon véritable projet JAVAEE qui permet de gérer une tâche et cette application fonctionne comme les applis CRUD et j'ai pas utilisé une base de donnée qui permet de récupérer les données une fois que l'utilisateur rentre la requête j'ai plutôt utilisé un fichier qui permet de gérer cela.
